@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028898384520",
+    "project_id": "supportify-8a62a",
+    "storage_bucket": "supportify-8a62a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028898384520:android:ba59d0c9868038db524d3d",
+        "android_client_info": {
+          "package_name": "com.example.on_bor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr65OHZokXUUMgbOBPQxTOL4IEJ08449g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
